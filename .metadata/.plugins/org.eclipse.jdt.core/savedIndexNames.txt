@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\arnez\OneDrive\Documents\Amazon_Bootcamp\3.2 - Guenther's Market\.metadata\.plugins\org.eclipse.jdt.core
+760091825.index
+1751050200.index
+1865797976.index
